@@ -15,8 +15,9 @@ The work on FCP oligomerization in Ph. tricornutum and Ch. Gracilis is funded by
 Foundation for Research & Innovation (H.F.R.I) in the context of the call “Basic Research
 Financing (Horizontal support for all Sciences), National Recovery and Resilience Plan
 (Greece 2.0) for the project number 014775, with acronym “SUNDIAL”.
-This project has received funding from the European Union’s Horizon Europe Research and
-Innovation Program under the Marie Skłodowska-Curie grant agreement No 101119442.
+This project has also received funding from the European Union’s Horizon Europe Research and
+Innovation Program under the Marie Skłodowska-Curie grant agreement No 101119442 "Photosynthetic Antennas
+in a Computational Microscope: Training a new generation of computational scientists".
 
 # FOLDERS
 ----------------------------------------------------------------------------
