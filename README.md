@@ -1,5 +1,7 @@
 # FCP_DIATOMS
-Conformational Plasticity Enables Functional Switching in Diatom Light-Harvesting Complexes
+
+Sousani, TI., Zender, B., Maity, S. et al. Conformational plasticity enables functional switching in
+diatom light-harvesting complexes. Commun Chem 8, 392 (2025). https://doi.org/10.1038/s42004-025-01774-x
 
 Theofani-Iosifina Sousani (1), Boutheina Zender (1), Sayan Maity (2,3), Ulrich Kleinekathöfer (2) and Vangelis Daskalakis (*,1)
 
@@ -16,9 +18,9 @@ Foundation for Research & Innovation (H.F.R.I) in the context of the call “Bas
 Financing (Horizontal support for all Sciences), National Recovery and Resilience Plan
 (Greece 2.0) for the project number 014775, with acronym “SUNDIAL”.
 
-The model is (and will be further) refined for a plethora of photosynthetic organisms/ diatoms
-(Th. pseudonana; Cy. meneghiniana; Ch. roscoffensis) with funding from the European Union’s
-Horizon Europe Research and Innovation Program under the Marie Skłodowska-Curie grant agreement
+The ML model is curretly (and will be further) refined for a plethora of photosynthetic organisms/ diatoms
+for non-experimentally resolved structures (T. pseudonana; C. meneghiniana; C. gracilis) with funding from
+the European Union’s Horizon Europe Research and Innovation Program under the Marie Skłodowska-Curie grant agreement
 No 101119442 "Photosynthetic Antennas in a Computational Microscope: Training a new generation of
 computational scientists".
 
