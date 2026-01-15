@@ -13,7 +13,7 @@ Theofani-Iosifina Sousani (1), Boutheina Zender (1), Sayan Maity (2,3), Ulrich K
 
 This is the code and training data for classifying FCP structures of diatoms
 
-The work on FCP oligomerization in Ph. tricornutum and Ch. Gracilis is funded by the Hellenic
+The work on FCP oligomerization in P. tricornutum and C. Gracilis is funded by the Hellenic
 Foundation for Research & Innovation (H.F.R.I) in the context of the call “Basic Research
 Financing (Horizontal support for all Sciences), National Recovery and Resilience Plan
 (Greece 2.0) for the project number 014775, with acronym “SUNDIAL”.
